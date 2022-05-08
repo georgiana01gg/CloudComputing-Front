@@ -5,9 +5,10 @@ function MainPage(props){
     console.log(title);
     return(
         <div id="MainPage">
+            <h1 className ='mt-10 text-blue-600 text-3x1 font-bold'>Main Page</h1>
 
         </div>
     );
 };
 
-export default MainPAge;
+export default MainPage;
